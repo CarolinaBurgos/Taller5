@@ -6,4 +6,6 @@ public class Radio {
 	public boolean isEncendida() {
 		return encendida;
 	}
+        
+       
 }
