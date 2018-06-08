@@ -7,7 +7,7 @@ package ISPsolution;
 
 /**
  *
- * @author USER
+ * @author Fernando
  */
 public interface IFBicicleta {
     public void fabricarBicicleta();

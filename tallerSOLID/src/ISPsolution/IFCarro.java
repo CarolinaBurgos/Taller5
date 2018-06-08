@@ -7,11 +7,12 @@ package ISPsolution;
 
 /**
  *
- * @author USER
+ * @author Fernando
  */
 public interface IFCarro {
     public void fabricarCarro();
     public void fabricarAsientoCarro();
     public void fabricarLlantaCarro();
     public void asegurarPuertas();
+    
 }

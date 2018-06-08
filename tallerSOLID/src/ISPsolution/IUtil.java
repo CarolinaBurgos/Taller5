@@ -7,9 +7,10 @@ package ISPsolution;
 
 /**
  *
- * @author USER
+ * @author Fernando
  */
 public interface IUtil {
     public void imprimirInforme();
     public void servirCafe();
+    
 }

@@ -7,10 +7,11 @@ package ISPsolution;
 
 /**
  *
- * @author USER
+ * @author Fernando
  */
 public interface IHabitacion {
     public void calentarHabitacion();
     public void enfriarHabitacion();
     public void reproducirMusicaGlobalmente();
+    
 }
