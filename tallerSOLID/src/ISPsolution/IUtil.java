@@ -10,7 +10,7 @@ package ISPsolution;
  * @author Fernando
  */
 public interface IUtil {
-    public void imprimirInforme();
     public void servirCafe();
+    public void imprimirInforme();
     
 }

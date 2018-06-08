@@ -11,6 +11,6 @@ package ISPsolution;
  */
 public interface IFBicicleta {
     public void fabricarBicicleta();
-    public void fabricarAsientoBicicleta();
     public void fabricarLlantaBicicleta();
+    public void fabricarAsientoBicicleta();
 }

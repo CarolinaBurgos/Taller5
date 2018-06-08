@@ -11,8 +11,8 @@ package ISPsolution;
  */
 public interface IFCarro {
     public void fabricarCarro();
-    public void fabricarAsientoCarro();
-    public void fabricarLlantaCarro();
     public void asegurarPuertas();
+    public void fabricarLlantaCarro();
+    public void fabricarAsientoCarro();
     
 }

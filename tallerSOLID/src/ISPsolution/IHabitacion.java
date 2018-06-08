@@ -10,8 +10,8 @@ package ISPsolution;
  * @author Fernando
  */
 public interface IHabitacion {
-    public void calentarHabitacion();
-    public void enfriarHabitacion();
     public void reproducirMusicaGlobalmente();
+    public void enfriarHabitacion();
+    public void calentarHabitacion();
     
 }

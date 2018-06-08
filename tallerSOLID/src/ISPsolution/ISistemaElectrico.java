@@ -10,7 +10,7 @@ package ISPsolution;
  * @author Fernando
  */
 public interface ISistemaElectrico {
-    public void encenderLuces();
     public void apagarLuces();
+    public void encenderLuces();
     
 }
