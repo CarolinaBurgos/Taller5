@@ -26,11 +26,11 @@ public class Carro implements Vehiculo{
 	}
 	
 	public void girarLlantaDelanteraIzquierdaAIzquierda() {
-		
+            
 	}
 	
 	public void girarLlantaDelanteraDerechaAIzquierda() {
-		
+            
 	}
 	
 	public void girarLlantaDelanteraIzquierdaADerecha() {
